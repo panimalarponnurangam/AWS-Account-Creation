@@ -26,8 +26,7 @@ To create an AWS account, set up a root user, and create an IAM user with specif
   ### Steps 7:
   Review and Create IAM User
   
-## COMMANDS
-Include the commands used in the Experiment.
+
 
 ## OUTPUT
 ### REG NUMBER:212222110031
