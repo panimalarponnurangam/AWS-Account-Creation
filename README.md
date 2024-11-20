@@ -1,4 +1,4 @@
- # EX:01 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+ # EX:02 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
   ## AIM
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
 ## PROBLEM STATEMENT
